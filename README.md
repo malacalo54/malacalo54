@@ -1,8 +1,8 @@
 ## Hi there 👋
- <div class="bot-container">
+
         <script type="module" src="https://unpkg.com/@splinetool/viewer@1.9.48/build/spline-viewer.js"></script>
         <spline-viewer url="https://prod.spline.design/zzB2vS8jkDgrvSST/scene.splinecode"></spline-viewer>
-    </div>
+
 <!--
 **malacalo54/malacalo54** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
