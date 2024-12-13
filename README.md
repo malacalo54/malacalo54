@@ -1,4 +1,4 @@
- <h1 align="center"><b>Hi , I'm Luis Romero </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+ <h1 align="center"><b>Hi , I'm Luis Romero </b><img src="[https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif](https://cdn.pixabay.com/animation/2022/10/07/01/16/01-16-36-19_512.gif)" width="35"></h1>
 
 
 <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> 
