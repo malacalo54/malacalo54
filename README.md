@@ -5,7 +5,12 @@
 </p>
 
 
-<h1><strong>Coming soon...</strong><h1>
+<h1><strong>### 📊 Mis Estadísticas
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radical" alt="Estadísticas de GitHub" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO&theme=radical" alt="Racha de contribuciones" />
+</p>
+</strong><h1>
 <!--
 **malacalo54/malacalo54** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
