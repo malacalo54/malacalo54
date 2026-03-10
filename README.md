@@ -1,104 +1,171 @@
-<h1 align="center"><b>Hey, I'm Luis Romero</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">
+  <b>Hey, I'm Luis Romero</b>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+</h1>
 
 <p align="center">
-  <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px></picture> 
-  <img src="https://readme-typing-svg.herokuapp.com?font=VT323&color=FF0000&size=30&center=true&vCenter=true&width=900&height=70&lines=Cybersecurity+Analyst+%7C+Red+%26+Blue+Team;Pentesting+%7C+AppSec+%7C+OSINT;CTF+Player+%7C+HackTheBox+%7C+TryHackMe;Purple+Team+%7C+Splunk+%7C+Forensics" alt="Typing SVG" />
-
+  <img src="https://readme-typing-svg.herokuapp.com?font=VT323&color=FF0000&size=30&center=true&vCenter=true&width=900&height=70&lines=Cybersecurity+Analyst+%7C+Red+%26+Blue+Team;Pentesting+%7C+AppSec+%7C+OSINT;CTF+Player+%7C+HackTheBox+%7C+TryHackMe;Purple+Team+Operations+%7C+Splunk+SIEM" alt="Typing SVG">
 </p>
+
 <p align="center">
-  <a href="https://www.linkedin.com/in/tu-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://blog-ctf-writeups-luis-romero.notion.site/Write-Ups-Portafolio-30be6d058e318094b0b7ec019f297402"><img src="https://img.shields.io/badge/CTF%20Blog-000000?style=for-the-badge&logo=notion&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/TU-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://blog-ctf-writeups-luis-romero.notion.site/Write-Ups-Portafolio-30be6d058e318094b0b7ec019f297402"><img src="https://img.shields.io/badge/Blog%20CTF-000000?style=for-the-badge&logo=notion&logoColor=white"/></a>
   <a href="mailto:luismarioromeroflorian@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://app.hackthebox.com/profile/tu-usuario"><img src="https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black"/></a>
-  <a href="https://tryhackme.com/p/tu-usuario"><img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white"/></a>
+  <a href="https://app.hackthebox.com/profile/TU-ID"><img src="https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black"/></a>
+  <a href="https://tryhackme.com/p/TU-USUARIO"><img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white"/></a>
 </p>
 
 ---
 
-## 🧠 About Me
+## 🕵️ About Me
 
-```bash
-┌──(luis㉿kali)-[~]
-└─$ whoami
-
-> Cybersecurity Analyst | Red & Blue Team
-> Especializado en Pentesting, Incident Response y Análisis Forense
-> Perfil híbrido: audito sistemas desde el código hasta la infraestructura
-> Actualmente cursando Máster en Ciberseguridad @ DigitechFP (hasta 06/2026)
-> Ex QA & Dev @ Indra Minsait — JMeter, LoadRunner, Postman, Scrum
-> CTF Player activo: HackTheBox / TryHackMe / Dockerlabs
+```text
+┌──────────────────────────────────────────────────────────────────────┐
+│                                                                      │
+│   whoami                                                             │
+│   > Cybersecurity Analyst | Red & Blue Team Operations              │
+│   > Based in Madrid 🇪🇸                                             │
+│   > Currently: Máster en Ciberseguridad @ DigitechFP               │
+│   > Ex QA Engineer @ Indra Minsait                                  │
+│   > Hybrid profile: from code to infrastructure                     │
+│                                                                      │
+└──────────────────────────────────────────────────────────────────────┘
 ```
 
-- 🔭 **Trabajando en:** TFM Purple Team — Emulación de intrusión completa + monitorización con Splunk
-- 🌱 **Aprendiendo:** Evasión de EDR/AV avanzada, ataques a Active Directory, Post-Explotación avanzada
-- 🚩 **CTF:** Writeups activos de HackTheBox, TryHackMe y Dockerlabs en mi [blog de Notion](https://blog-ctf-writeups-luis-romero.notion.site/Write-Ups-Portafolio-30be6d058e318094b0b7ec019f297402)
-- 💬 **Pregúntame sobre:** Pentesting web, OWASP Top 10, Splunk, análisis forense, CTFs
-- 📍 **Madrid** | Disponibilidad inmediata | Presencial / Híbrido / Remoto
-- ⚡ **Fun fact:** Paso más tiempo en HTB que viendo Netflix
+- 🔭 **Working on:** TFM Purple Team — full intrusion emulation + real-time Splunk monitoring via Telegram alerts
+- 🌱 **Learning:** EDR/AV evasion techniques, advanced Active Directory attacks
+- 🚩 **CTF Player:** Active on HackTheBox, TryHackMe & Dockerlabs — writeups published on my [Notion blog](https://blog-ctf-writeups-luis-romero.notion.site/Write-Ups-Portafolio-30be6d058e318094b0b7ec019f297402)
+- 💬 **Ask me about:** Pentesting web, OWASP Top 10, Splunk SIEM, CTF methodology
+- ⚡ **Fun fact:** I've rooted more machines than I've watched Netflix series
 
 ---
 
-## 🛠️ Tech Stack
+## 🛡️ Cybersecurity Arsenal
 
-### 🔴 Offensive Security
-![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-0E83CD?style=for-the-badge&logo=nmap&logoColor=white)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+<details>
+<summary><b>⚔️ Offensive Security</b></summary>
+<br>
 
-`Metasploit` `Burp Suite` `Nmap` `Gobuster` `Hashcat` `Sqlmap` `Airgeddon` `Gophish` `Responder` `MobSF` `Nessus` `OWASP Top 10`
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=flat-square&logo=metasploit&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=portswigger&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-0E83CD?style=flat-square&logoColor=white)
+![Gobuster](https://img.shields.io/badge/Gobuster-4EAA25?style=flat-square&logoColor=white)
+![Hashcat](https://img.shields.io/badge/Hashcat-FF6600?style=flat-square&logoColor=white)
+![SQLMap](https://img.shields.io/badge/SQLMap-CC2927?style=flat-square&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
+![Airgeddon](https://img.shields.io/badge/Airgeddon-555555?style=flat-square&logoColor=white)
+![MobSF](https://img.shields.io/badge/MobSF-333333?style=flat-square&logoColor=white)
+![Gophish](https://img.shields.io/badge/Gophish-E53935?style=flat-square&logoColor=white)
+![Responder](https://img.shields.io/badge/Responder-8B0000?style=flat-square&logoColor=white)
+![Nessus](https://img.shields.io/badge/Nessus-00B388?style=flat-square&logoColor=white)
 
-### 🔵 Defensive & Forensics
-![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
-![Wazuh](https://img.shields.io/badge/Wazuh-3AAFAA?style=for-the-badge&logo=wazuh&logoColor=white)
+</details>
 
-`Splunk (SIEM)` `Volatility` `Autopsy` `IPTables` `Wazuh` `Hardening CIS/CCN-STIC` `WireGuard`
+<details>
+<summary><b>🛡️ Defensive & Forensics</b></summary>
+<br>
 
-### ☁️ DevSecOps & Cloud
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Podman](https://img.shields.io/badge/Podman-892CA0?style=for-the-badge&logo=podman&logoColor=white)
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white)
+![Wazuh](https://img.shields.io/badge/Wazuh-3AAFAC?style=flat-square&logoColor=white)
+![Volatility](https://img.shields.io/badge/Volatility-5C2D91?style=flat-square&logoColor=white)
+![Autopsy](https://img.shields.io/badge/Autopsy-2C3E50?style=flat-square&logoColor=white)
+![WireGuard](https://img.shields.io/badge/WireGuard-88171A?style=flat-square&logo=wireguard&logoColor=white)
+![IPTables](https://img.shields.io/badge/IPTables-EE0000?style=flat-square&logoColor=white)
+![CIS Benchmarks](https://img.shields.io/badge/CIS_Benchmarks-003366?style=flat-square&logoColor=white)
 
-`Docker` `Podman` `AWS (EC2, S3)` `Buildah` `Skopeo`
+</details>
 
-### 💻 Development & Scripting
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+<details>
+<summary><b>☁️ DevSecOps & Cloud</b></summary>
+<br>
 
-### 🧪 Testing & QA
-`Apache JMeter` `LoadRunner` `Postman` `Scrum / Agile`
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Podman](https://img.shields.io/badge/Podman-892CA0?style=flat-square&logo=podman&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
+![Buildah](https://img.shields.io/badge/Buildah-CC0000?style=flat-square&logoColor=white)
+
+</details>
+
+<details>
+<summary><b>🧪 QA & Testing</b></summary>
+<br>
+
+![JMeter](https://img.shields.io/badge/Apache_JMeter-D22128?style=flat-square&logo=apache&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![LoadRunner](https://img.shields.io/badge/LoadRunner-0073E6?style=flat-square&logoColor=white)
+
+</details>
 
 ---
 
-## 🚩 CTF & Proyectos Destacados
+## 💻 Dev & Scripting
 
-### 🟣 TFM — Purple Team: Emulación de Intrusión y Monitorización *(En desarrollo)*
-> Simulación de compromiso completo de principio a fin:
-> - **Ataque:** Compromiso de red WiFi (Airgeddon) → Escaneo (Nmap) → Explotación web (SSTI)
-> - **Post-Explotación:** Reverse Shell → Movimiento lateral → Escalada de privilegios a Root
-> - **Detección:** Alertas en tiempo real en Splunk (notificaciones vía Telegram)
-> - **Hardening:** Securización de infraestructura de logs mediante túneles WireGuard
-
-### 📝 Blog Técnico de Ciberseguridad — [Ver Writeups →](https://blog-ctf-writeups-luis-romero.notion.site/Write-Ups-Portafolio-30be6d058e318094b0b7ec019f297402)
-> Writeups activos de CTFs resueltos en **HackTheBox**, **TryHackMe** y **Dockerlabs**:
-> - Técnicas de reconocimiento, explotación y post-explotación
-> - Documentación de vulnerabilidades OWASP Top 10
-> - Resolución detallada paso a paso de retos técnicos
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+</p>
 
 ---
 
-## 📁 Repositorios
+## 🚩 Featured Projects
 
-| Repo | Descripción |
-|------|-------------|
-| `ctf-writeups` | Writeups organizados por plataforma y dificultad |
-| `purple-team-lab` | Scripts y documentación del TFM Purple Team |
-| `pentesting-cheatsheets` | Cheatsheets personales: Nmap, Burp, Metasploit, SQLi... |
-| `splunk-spl-queries` | Queries SPL y alertas útiles para Blue Team |
-| `owasp-lab` | Entornos Docker para practicar vulnerabilidades O
+### 🟣 Purple Team Lab — TFM *(In Progress)*
+> Full intrusion simulation + real-time detection stack
+
+- **Attack:** WiFi compromise (Airgeddon) → Nmap recon → Web exploitation (SSTI)
+- **Post-Exploitation:** Reverse Shell, lateral movement, Root privilege escalation
+- **Detection:** Real-time Splunk alerts via Telegram bot + log infrastructure secured with WireGuard tunnels
+
+---
+
+### 📝 CTF Writeups Blog
+> Active writeups on HackTheBox, TryHackMe & Dockerlabs
+
+Documenting recon, exploitation and post-exploitation techniques. OWASP Top 10 vulnerability analysis and technical challenge breakdowns.
+
+👉 **[Read the blog →](https://blog-ctf-writeups-luis-romero.notion.site/Write-Ups-Portafolio-30be6d058e318094b0b7ec019f297402)**
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=malacalo54&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=FF0000&icon_color=FF0000&text_color=ffffff" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=malacalo54&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=FF0000&text_color=ffffff" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=malacalo54&theme=radical&hide_border=true&background=0d1117&ring=FF0000&fire=FF0000&currStreakLabel=ffffff" />
+</p>
+
+---
+
+## 🎯 Certifications & Learning Path
+
+| Status | Certification |
+|--------|--------------|
+| 📚 In Progress | Máster en Ciberseguridad — DigitechFP (2025–2026) |
+| ✅ Completed | Técnico Superior DAW — IES Tetuán de las Victorias |
+| 🎯 Next Target | eJPT / OSCP |
+
+---
+
+## 🌐 Languages
+
+- 🇪🇸 **Spanish** — Native
+- 🇬🇧 **English** — B2
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=malacalo54&color=red&style=flat-square&label=Profile+Views"/>
+</p>
+
+<p align="center">
+  <i>"The quieter you become, the more you are able to hear."</i> — Kali Linux
+</p>
