@@ -4,6 +4,7 @@
 </h1>
 
 <p align="center">
+  <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="100px">
   <img src="https://readme-typing-svg.herokuapp.com?font=VT323&color=FF0000&size=30&center=true&vCenter=true&width=900&height=70&lines=Cybersecurity+Analyst+%7C+Red+%26+Blue+Team;Pentesting+%7C+AppSec+%7C+OSINT;CTF+Player+%7C+HackTheBox+%7C+TryHackMe;Purple+Team+Operations+%7C+Splunk+SIEM" alt="Typing SVG">
 </p>
 
@@ -25,8 +26,7 @@
 │   whoami                                                             │
 │   > Cybersecurity Analyst | Red & Blue Team Operations              │
 │   > Based in Madrid 🇪🇸                                             │
-│   > Currently: Máster en Ciberseguridad @ DigitechFP               │
-│   > Ex QA Engineer @ Indra Minsait                                  │
+│   > Currently: Máster en Ciberseguridad @ DigitechFP               │                              │
 │   > Hybrid profile: from code to infrastructure                     │
 │                                                                      │
 └──────────────────────────────────────────────────────────────────────┘
@@ -35,8 +35,6 @@
 - 🔭 **Working on:** TFM Purple Team — full intrusion emulation + real-time Splunk monitoring via Telegram alerts
 - 🌱 **Learning:** EDR/AV evasion techniques, advanced Active Directory attacks
 - 🚩 **CTF Player:** Active on HackTheBox, TryHackMe & Dockerlabs — writeups published on my [Notion blog](https://blog-ctf-writeups-luis-romero.notion.site/Write-Ups-Portafolio-30be6d058e318094b0b7ec019f297402)
-- 💬 **Ask me about:** Pentesting web, OWASP Top 10, Splunk SIEM, CTF methodology
-- ⚡ **Fun fact:** I've rooted more machines than I've watched Netflix series
 
 ---
 
@@ -166,6 +164,3 @@ Documenting recon, exploitation and post-exploitation techniques. OWASP Top 10 v
   <img src="https://komarev.com/ghpvc/?username=malacalo54&color=red&style=flat-square&label=Profile+Views"/>
 </p>
 
-<p align="center">
-  <i>"The quieter you become, the more you are able to hear."</i> — Kali Linux
-</p>
