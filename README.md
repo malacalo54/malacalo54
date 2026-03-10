@@ -133,9 +133,9 @@ Documenting recon, exploitation and post-exploitation techniques. OWASP Top 10 v
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=malacalo54&theme=radical&hide_border=true&background=0d1117&ring=FF0000&fire=FF0000&currStreakLabel=ffffff" />
 </p>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TU_USUARIO/TU_USUARIO/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TU_USUARIO/TU_USUARIO/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/TU_USUARIO/TU_USUARIO/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/malacalo54/malacalo54/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/malacalo54/malacalo54/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/malacalo54/malacalo54/output/github-contribution-grid-snake.svg">
 </picture>
 ---
 
