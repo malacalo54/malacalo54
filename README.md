@@ -26,7 +26,7 @@
 │   whoami                                                             │
 │   > Cybersecurity Analyst | Red & Blue Team Operations              │
 │   > Based in Madrid 🇪🇸                                             │
-│   > Currently: Máster en Ciberseguridad @ DigitechFP               │                              │
+│   > Currently: Máster en Ciberseguridad              │                              │
 │   > Hybrid profile: from code to infrastructure                     │
 │                                                                      │
 └──────────────────────────────────────────────────────────────────────┘
