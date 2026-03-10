@@ -125,11 +125,6 @@ Documenting recon, exploitation and post-exploitation techniques. OWASP Top 10 v
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=malacalo54&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=FF0000&icon_color=FF0000&text_color=ffffff" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=malacalo54&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=FF0000&text_color=ffffff" height="165"/>
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=malacalo54&theme=radical&hide_border=true&background=0d1117&ring=FF0000&fire=FF0000&currStreakLabel=ffffff" />
 </p>
 <picture>
