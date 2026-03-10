@@ -1,10 +1,11 @@
-<h1 align="center"><b>Hey, I'm Luis Romero</b></h1>
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+<h1 align="center"><b>Hey, I'm Luis Romero</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=VT323&color=FF0000&size=30&center=true&vCenter=true&width=900&height=70&lines=Cybersecurity+Analyst+%7C+Red+%26+Blue+Team;Pentesting+%7C+AppSec+%7C+OSINT;CTF+Player+%7C+HackTheBox+%7C+TryHackMe;Purple+Team+%7C+Splunk+%7C+Forensics" alt="Typing SVG" />
 </p>
+<picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px></picture> 
 
+</p>
 <p align="center">
   <a href="https://www.linkedin.com/in/tu-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://blog-ctf-writeups-luis-romero.notion.site/Write-Ups-Portafolio-30be6d058e318094b0b7ec019f297402"><img src="https://img.shields.io/badge/CTF%20Blog-000000?style=for-the-badge&logo=notion&logoColor=white"/></a>
