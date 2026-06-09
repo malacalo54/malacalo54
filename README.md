@@ -23,9 +23,6 @@
 │                                                                     │
 └──────────────────────────────────────────────────────────────────────┘
 ```
-
-- 🔭 **Working on:** TFM Purple Team — full intrusion emulation + real-time Splunk monitoring via Telegram alerts
-- 🌱 **Learning:** EDR/AV evasion techniques, advanced Active Directory attacks
 - 🚩 **CTF Player:** Active on HackTheBox, TryHackMe & Dockerlabs — writeups published on my [Notion blog](https://blog-ctf-writeups-luis-romero.notion.site/Write-Ups-Portafolio-30be6d058e318094b0b7ec019f297402)
 
 ---
