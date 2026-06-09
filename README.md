@@ -101,7 +101,7 @@
 
 ## 🚩 Featured Projects
 
-### 🟣 Purple Team Lab — TFM *(In Progress)*
+### 🟣 Purple Team Lab — TFM 
 > Full intrusion simulation + real-time detection stack
 
 - **Attack:** WiFi compromise (Airgeddon) → Nmap recon → Web exploitation (SSTI)
