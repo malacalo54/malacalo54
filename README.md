@@ -142,10 +142,6 @@ Documenting recon, exploitation and post-exploitation techniques. OWASP Top 10 v
 *   **[Resolución de Caso Forense en Windows (BelkaCTF)](./04_DFIR/BelkaCTF):** Análisis exhaustivo de artefactos, persistencias en el sistema, volcados de memoria e inyecciones de código.
 *   **[Análisis Forense Avanzado en Entornos Apple (macOS & iOS)](./04_DFIR/Apple):** Extracción, triaje y adquisición de evidencias digitales utilizando `mac_apt` y herramientas de análisis forense móvil.
 
----
-
-## 📊 GitHub Stats
----
 
 ## 📊 GitHub Stats
 
