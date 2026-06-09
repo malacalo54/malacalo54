@@ -113,6 +113,8 @@
 
 ---
 
+---
+
 ### 📝 CTF Writeups Blog
 > Active writeups on HackTheBox, TryHackMe & Dockerlabs
 
@@ -120,6 +122,29 @@ Documenting recon, exploitation and post-exploitation techniques. OWASP Top 10 v
 
 👉 **[Read the blog →](https://blog-ctf-writeups-luis-romero.notion.site/Write-Ups-Portafolio-30be6d058e318094b0b7ec019f297402)**
 
+---
+
+## 📂 Academic & Lab Projects (Write-ups + PDF Reports)
+> Repositorio central de los laboratorios y auditorías técnicas desarrolladas durante el Máster. Cada sección enlaza a su correspondiente carpeta con la documentación ejecutiva y técnica completa en formato PDF.
+
+### 🛡️ Blue Team, Hardening & Monitoring
+*   **[Auditoría de Cumplimiento Windows 10 vs CCN-STIC-599B](./02_Blue_Team/CCN-STIC-599B):** Análisis de brechas de seguridad y políticas de bastonado siguiendo las guías oficiales del Centro Criptológico Nacional.
+*   **[Despliegue y Configuración de SIEM con Wazuh](./02_Blue_Team/Wazuh):** Centralización de logs, despliegue de agentes activos y análisis de alertas tempranas ante incidentes.
+*   **[Detección de Amenazas en Red con Suricata](./02_Blue_Team/Suricata):** Configuración de un IDS/IPS perimetral para el análisis de tráfico y firmas de red *(In Progress)*.
+*   **[Auditoría con Lynis y Bastonado en Sistemas Linux](./02_Blue_Team/Lynis-Linux):** Evaluación de la postura de seguridad automatizada y aplicación de contramedidas en servidores Linux *(In Progress)*.
+*   **[Control de Perímetro con IPTables y Vagrant](./02_Blue_Team/IPTables):** Automatización de infraestructura como código e implementación de firewalls locales.
+
+### 🛑 Offensive Security & Pentesting Labs
+*   **[Auditoría de Entorno de Red Active Directory (Bleach.local)](./03_Offensive/Bleach):** Write-up completo que abarca fases de reconocimiento con Nmap, movimiento lateral y escalada de privilegios.
+*   **[Explotación de Vulnerabilidades en Entornos Controlados](./03_Offensive/Metasploitable):** Prácticas avanzadas de intrusión y pivoting sobre la infraestructura vulnerable Metasploitable 2.
+
+### 🔍 Digital Forensics & Incident Response (DFIR)
+*   **[Resolución de Caso Forense en Windows (BelkaCTF)](./04_DFIR/BelkaCTF):** Análisis exhaustivo de artefactos, persistencias en el sistema, volcados de memoria e inyecciones de código.
+*   **[Análisis Forense Avanzado en Entornos Apple (macOS & iOS)](./04_DFIR/Apple):** Extracción, triaje y adquisición de evidencias digitales utilizando `mac_apt` y herramientas de análisis forense móvil.
+
+---
+
+## 📊 GitHub Stats
 ---
 
 ## 📊 GitHub Stats
