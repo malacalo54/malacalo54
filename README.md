@@ -157,6 +157,7 @@ Documenting recon, exploitation and post-exploitation techniques. OWASP Top 10 v
 | Status | Certification |
 |--------|--------------|
 | Máster en Ciberseguridad — DigitechFP (2025–2026) |
+| ✅ Completed | eJPTv2 |
 | ✅ Completed | Técnico Superior DAW — IES Tetuán de las Victorias |
 
 ---
